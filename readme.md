@@ -1,6 +1,6 @@
 <div align="center">
 <p>
-  <strong>English</strong> | <a href="README_es.md">Español</a>
+  <strong>English</strong> | <a href="readme_ES.md">Español</a>
 </p>
 </div>
 
@@ -102,5 +102,6 @@ The `app.py` application processes the entire historical dataset to offer the fo
 ## 🚀 Get Started
 
 The application is deployed and publicly accessible via Streamlit Community Cloud.
+
 
 **[➡️ Launch the Crypto Insights Terminal](https://crypto-market-analysis-tool.streamlit.app/)**
